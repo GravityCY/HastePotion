@@ -1,0 +1,9 @@
+{
+  "item.minecraft.potion.effect.haste_potion": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.haste_potion": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.haste_potion": "Lingering Potion of Haste",
+
+  "item.minecraft.potion.effect.strong_haste_potion": "Potion of Haste",
+  "item.minecraft.splash_potion.effect.strong_haste_potion": "Splash Potion of Haste",
+  "item.minecraft.lingering_potion.effect.strong_haste_potion": "Lingering Potion of Haste",
+}

@@ -12,16 +12,16 @@
     "issues": "${mod_sources}"
   },
   "license": "${mod_license}",
-  "icon": "assets/example/icon.png",
+  "icon": "assets/haste_potion/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "me.gravityio.example.ExampleMod"
+      "me.gravityio.haste_potion.HastePotionMod"
     ]
   },
   "mixins": [
-    "example.mixins.json"
+    "haste_potion.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",

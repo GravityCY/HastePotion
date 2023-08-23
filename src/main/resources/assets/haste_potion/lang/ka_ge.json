@@ -1,0 +1,11 @@
+{
+  "item.minecraft.potion.effect.haste_potion": "\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d8\u10e1 \u10ec\u10d0\u10db\u10d0\u10da\u10d8",
+  "item.minecraft.splash_potion.effect.haste_potion": "Splash \u10ec\u10d0\u10db\u10d0\u10da\u10e1 \u10d3\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d0",
+  "item.minecraft.lingering_potion.effect.haste_potion": "\u10dc\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d5\u10d8 \u10ec\u10d0\u10db\u10d0\u10da\u10d8",
+  "item.minecraft.potion.effect.strong_haste_potion": "\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d8\u10e1 \u10ec\u10d0\u10db\u10d0\u10da\u10d8",
+  "item.minecraft.splash_potion.effect.strong_haste_potion": "Splash \u10ec\u10d0\u10db\u10d0\u10da\u10e1 \u10d3\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d0",
+  "item.minecraft.lingering_potion.effect.strong_haste_potion": "\u10dc\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d5\u10d8 \u10ec\u10d0\u10db\u10d0\u10da\u10d8",
+  "item.minecraft.potion.effect.long_haste_potion": "\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d8\u10e1 \u10ec\u10d0\u10db\u10d0\u10da\u10d8",
+  "item.minecraft.splash_potion.effect.long_haste_potion": "Splash \u10ec\u10d0\u10db\u10d0\u10da\u10e1 \u10d3\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d1\u10d0",
+  "item.minecraft.lingering_potion.effect.long_haste_potion": "\u10dc\u10d0\u10e9\u10e5\u10d0\u10e0\u10d4\u10d5\u10d8 \u10ec\u10d0\u10db\u10d0\u10da\u10d8"
+}

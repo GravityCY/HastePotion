@@ -1,0 +1,11 @@
+{
+  "item.minecraft.potion.effect.haste_potion": "\uac00\uc18d\uc758 \ubb3c\uc57d",
+  "item.minecraft.splash_potion.effect.haste_potion": "\uac00\uc18d\uc758 \ud22c\ucc99\uc6a9 \ubb3c\uc57d",
+  "item.minecraft.lingering_potion.effect.haste_potion": "\uc9c0\uc18d\ub418\ub294 \uac00\uc18d\uc758 \ubb3c\uc57d",
+  "item.minecraft.potion.effect.strong_haste_potion": "\uac00\uc18d\uc758 \ubb3c\uc57d",
+  "item.minecraft.splash_potion.effect.strong_haste_potion": "\uac00\uc18d\uc758 \ud22c\ucc99\uc6a9 \ubb3c\uc57d",
+  "item.minecraft.lingering_potion.effect.strong_haste_potion": "\uc9c0\uc18d\ub418\ub294 \uac00\uc18d\uc758 \ubb3c\uc57d",
+  "item.minecraft.potion.effect.long_haste_potion": "\uac00\uc18d\uc758 \ubb3c\uc57d",
+  "item.minecraft.splash_potion.effect.long_haste_potion": "\uac00\uc18d\uc758 \ud22c\ucc99\uc6a9 \ubb3c\uc57d",
+  "item.minecraft.lingering_potion.effect.long_haste_potion": "\uc9c0\uc18d\ub418\ub294 \uac00\uc18d\uc758 \ubb3c\uc57d"
+}

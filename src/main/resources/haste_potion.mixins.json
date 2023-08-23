@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "me.gravityio.example.mixins.impl",
+  "package": "me.gravityio.haste_potion.mixins.impl",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

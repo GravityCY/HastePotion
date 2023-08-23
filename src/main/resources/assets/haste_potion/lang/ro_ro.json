@@ -1,0 +1,11 @@
+{
+  "item.minecraft.potion.effect.haste_potion": "Po\u021biune de grab\u0103",
+  "item.minecraft.splash_potion.effect.haste_potion": "Splash Po\u021biune de Grab\u0103",
+  "item.minecraft.lingering_potion.effect.haste_potion": "Po\u021biune persistent\u0103 de grab\u0103",
+  "item.minecraft.potion.effect.strong_haste_potion": "Po\u021biune de grab\u0103",
+  "item.minecraft.splash_potion.effect.strong_haste_potion": "Splash Po\u021biune de Grab\u0103",
+  "item.minecraft.lingering_potion.effect.strong_haste_potion": "Po\u021biune persistent\u0103 de grab\u0103",
+  "item.minecraft.potion.effect.long_haste_potion": "Po\u021biune de grab\u0103",
+  "item.minecraft.splash_potion.effect.long_haste_potion": "Splash Po\u021biune de Grab\u0103",
+  "item.minecraft.lingering_potion.effect.long_haste_potion": "Po\u021biune persistent\u0103 de grab\u0103"
+}

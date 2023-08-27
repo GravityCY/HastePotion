@@ -20,9 +20,6 @@
       "me.gravityio.haste_potion.HastePotionMod"
     ]
   },
-  "mixins": [
-    "haste_potion.mixins.json"
-  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "minecraft": "${minecraft_version}",

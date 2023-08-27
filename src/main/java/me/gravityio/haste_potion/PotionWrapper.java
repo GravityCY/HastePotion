@@ -88,6 +88,7 @@ public class PotionWrapper {
         this.potion = new Potion(new StatusEffectInstance(this.effect, this.duration, this.amplifier));
     }
 
+
     public void onRegister() {
         this.build();
 
@@ -100,12 +101,18 @@ public class PotionWrapper {
         BrewingRecipeRegistry.registerPotionRecipe(input, this.ingredient, this.potion);
     }
 
+    /**
+     * Creates a potion wrapper with the same subset of fields as the given potion wrapper
+     */
     public static PotionWrapper ofUpgrade(Identifier id, PotionWrapper wrapper) {
         return new PotionWrapper(id)
                 .setPotion(wrapper.effect, wrapper.duration, wrapper.amplifier)
                 .setRecipe(wrapper, wrapper.ingredient);
     }
 
+    /**
+     * Creates a potion wrapper with the same subset of fields as the given potion wrapper
+     */
     public static PotionWrapper ofUpgrade(Identifier id, PotionWrapper wrapper, int duration, int amplifier) {
         return new PotionWrapper(id)
                 .setPotion(wrapper.effect, duration, amplifier)
